@@ -1,6 +1,6 @@
 Wymagania techniczne:
 
-W celu optymalnego wyświetlania mojej strony internetowej oraz dostępu do wszystkich jej funkcjonalności na Państwa komputerze prosimy o wzięcie po uwagę poniższych uwarunkowań technicznych:
+W celu optymalnego wyświetlania mojej strony internetowej oraz dostępu do wszystkich jej funkcjonalności na Państwa komputerze prosze o wzięcie po uwagę poniższych uwarunkowań technicznych:
 
 Przeglądarka
 Rekomendowane jest stosowanie przeglądarek: Internet Explorer 8.x (lub wyższa wersja), Mozilla Firefox 10.x (lub wyższa wersja), Google Chrome 18.0.x (lub wyższa wersja) oraz Safari 5.x (lub wyższa wersja).
