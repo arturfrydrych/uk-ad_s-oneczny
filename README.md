@@ -7,4 +7,4 @@ Rekomendowane jest stosowanie przeglądarek: Internet Explorer 8.x (lub wyższa 
 Stosując starsze wersje programów (np. Internet Explorer 6) niektóre z funkcjonalności naszej strony mogą być ograniczone lub zupełnie niedostępne. 
 
 Cookies
-Wybrane funkcje na stronie wymagają zezwolenia na wykorzystanie plików Cookies. W związku z powyższym rekomenduje aktywację Cookies w Państwa przeglądarce. Więcej informacji nt. wykorzystania Cookies znajduje się w zakładce „Ochrona danych osobowych”.
+Wybrane funkcje na stronie wymagają zezwolenia na wykorzystanie plików Cookies. W związku z powyższym rekomenduje aktywację Cookies w Państwa przeglądarce.
